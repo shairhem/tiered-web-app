@@ -1,0 +1,9 @@
+[submodule "tiered-web-app-shared"]
+	path = tiered-web-app-shared
+	url = https://github.com/shairhem/tiered-web-app-shared.git
+[submodule "tiered-web-app-api1"]
+	path = tiered-web-app-api1
+	url = https://github.com/shairhem/tiered-web-app-api1.git
+[submodule "tiered-web-app-api2"]
+	path = tiered-web-app-api2
+	url = https://github.com/shairhem/tiered-web-app-api2.git
